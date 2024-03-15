@@ -6,7 +6,7 @@
 
 import Foundation
 
-let filePath = "C:/Users/honorio.DESKTOP-97PNUN6/CLionProjects/file-handling-swift/pokeDex.txt"
+let filePath = "/file-handling-swift/pokeDex.txt"
 let seperators = CharacterSet(charactersIn: "|")
 
 
